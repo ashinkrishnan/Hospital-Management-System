@@ -1,2 +1,2 @@
-# Hospital-Management-Syste
+# Hospital-Management-System
 ![homepage](hms.png)
